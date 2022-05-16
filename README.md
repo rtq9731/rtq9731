@@ -1,6 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFFFFF,100:FFFFFF&height=300&section=header&text=Coconut's%20Github&fontSize=90)
+<div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=wave&color=0:A3CCA3,100:A3CCA3&height=300&section=header&text=Coconut's%20Github&fontSize=90&fontColor=FFFFFF)
+
+
+<div align="center">
+  
 ![GitHub followers](https://img.shields.io/github/followers/rtq9731?color=A3CCA3&style=for-the-badge)
+<div align="center">
+  
 ![GitHub top language](https://img.shields.io/github/languages/top/rtq9731/Hexsile?color=A3CCA3&style=for-the-badge)
 
 <!--
