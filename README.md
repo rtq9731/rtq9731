@@ -9,7 +9,8 @@
 <div align="center">
   
 ![GitHub top language](https://img.shields.io/github/languages/top/rtq9731/Hexsile?color=A3CCA3&style=for-the-badge)
-
+  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtq9731)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **rtq9731/rtq9731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
