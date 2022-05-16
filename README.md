@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:FFFFFF,100:FFFFFF&height=300&section=header&text=Coconut's%20Github&fontSize=90)
 
+![GitHub followers](https://img.shields.io/github/followers/rtq9731?color=A3CCA3&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/rtq9731/Hexsile?color=A3CCA3&style=for-the-badge)
+
 <!--
 **rtq9731/rtq9731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
