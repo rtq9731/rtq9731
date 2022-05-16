@@ -26,6 +26,9 @@
   I’m currently working on : I'm an Student! 
 </div>
   
+  <div> <div align="center">
+    ##목표 : 이름을 남긴 게임 개발자가 되기!
+  </div>
 <!--
 **rtq9731/rtq9731** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
