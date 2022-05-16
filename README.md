@@ -8,7 +8,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/rtq9731?color=A3CCA3&style=for-the-badge)
 <div align="center">
   
-![GitHub top language](https://img.shields.io/github/languages/top/rtq9731/Hexsile?color=A3CCA3&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/rtq9731/Hexsile?color=D6E6F5&style=for-the-badge)
   
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rtq9731)](https://github.com/anuraghazra/github-readme-stats)
 <!--
