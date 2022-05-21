@@ -29,7 +29,7 @@
 
   <div> <div align="center">
     <span style="font-size:250%"> 
-      목표 : 이름을 남긴 게임 개발자가 되기! 
+      목표는 이름을 남긴 게임 개발자가 되기! 입니다.. 
       </span>
   </div>
 <!--
