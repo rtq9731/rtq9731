@@ -2,7 +2,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:D6E6F5,100:D6E6F5&height=200&section=header&text=Coconut's%20Github&fontSize=64&fontColor=000000)
 
-
 <div align="center">
   
 ![GitHub followers](https://img.shields.io/github/followers/rtq9731?color=A3CCA3&style=for-the-badge)
@@ -15,7 +14,7 @@
 <div> <div align="center">
   👨‍💻 주로 사용하는 언어 : C #
 
-  Language I can use : C #
+  Language I can use: C #
 
   👨‍💻 잘 몰라요.. : C / C++ / Python / JAVA / JS
 
