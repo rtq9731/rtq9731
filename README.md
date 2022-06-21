@@ -23,6 +23,10 @@
   🚛 지금 어디서 일하고 있나요? : 아직 학생입니다!
 
   I’m currently working on : I'm an Student! 
+  
+  유행하길래 써놓는 MBTI : ENTP - T
+  
+  My MBTI : ENTP - T
 </div>
   
 
