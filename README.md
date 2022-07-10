@@ -24,9 +24,9 @@
 
   I’m currently working on : I'm an Student! 
   
-  유행하길래 써놓는 MBTI : ENTP - T
+  유행하길래 써놓는 MBTI : ENTP - A
   
-  My MBTI : ENTP - T
+  My MBTI : ENTP - A
 </div>
   
 
