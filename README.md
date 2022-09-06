@@ -24,6 +24,10 @@
 
   I’m currently working on : I'm an Student! 
   
+  좋아하는 게임 장르는? : FPS, 공장 시뮬레이션, 경영 시뮬레이션
+  
+  Game genre what I like : FPS, Factori sim, management sim
+  
   유행하길래 써놓는 MBTI : ENTP - A
   
   My MBTI : ENTP - A
@@ -33,7 +37,7 @@
   <div> <div align="center">
     <span style="font-size:250%"> 
       목표는 능력있는 팀원이기도 하고,
-      마
+      제가 좋아하는 장르에서 인정받는 게임을 만드는 겁니다.
       </span>
   </div>
 <!--
