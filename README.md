@@ -24,9 +24,9 @@
 
   I’m currently working on : I'm an Student! 
   
-  좋아하는 게임 장르는? : FPS, 공장 시뮬레이션, 경영 시뮬레이션
+  좋아하는 게임 장르는? : FPS, 공장 시뮬레이션, 경영 시뮬레이션, 생존
   
-  Game genre what I like : FPS, Factori sim, management sim
+  Game genre what I like : FPS, Factori sim, management sim, survival
   
   유행하길래 써놓는 MBTI : ENTP - A
   
