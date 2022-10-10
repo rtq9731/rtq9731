@@ -28,9 +28,9 @@
   
   Game genre what I like : FPS, Factori sim, management sim, survival
   
-  유행하길래 써놓는 MBTI : ENTP - A
+  유행하길래 써놓는 MBTI : ENTP
   
-  My MBTI : ENTP - A
+  My MBTI : ENTP
 </div>
   
 
