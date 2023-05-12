@@ -14,15 +14,21 @@
 <div> <div align="center">
   👨‍💻 주로 사용하는 언어 : C #
 
-  Language I can use: C #
+  Language that my main language : C #
 
-  👨‍💻 잘 몰라요.. : C / C++ / Python / JAVA / JS
+  👨‍ 주력은 아니지만 쓸 줄 아는 언어 : C++
 
-  I Don't know well.. : C / C++ / Python / JAVA / JS 
+  Language that not my main but I can use! : C++
 
-  🚛 지금 어디서 일하고 있나요? : 아직 학생입니다!
+  👨‍💻 잘 모르지만, 쓸수는 있어요! : C / Python / JAVA / JS
 
-  I’m currently working on : I'm an Student! 
+  I Don't know well, but I can use! : C / Python / JAVA / JS 
+
+
+
+  🚛 지금 어디서 일하고 있나요? : 소울게임즈에서 프로그래머로 일하고 있습니다!
+
+  I’m currently working on : I'm working as Game Programmer in Soulgames of South Korea 
   
   좋아하는 게임 장르는? : FPS, 공장 시뮬레이션, 경영 시뮬레이션, 생존
   
